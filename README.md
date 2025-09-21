@@ -5,4 +5,3 @@
 
 This is a relatively new GH account mostly to store my own wip 🛠️.
 
-I do my day to day dev work in private repos in another provider, which is why my contribution graph is a little sparse. 😇
